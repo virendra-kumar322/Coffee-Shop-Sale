@@ -10,7 +10,7 @@ The main objective of this project is to analyze retail sales data to gain actio
 - How do sales vary across different store locations?
 - What is the average price/order per person?
 - Which products are the best selling in terms of quantity and revenue?
-- How do salses vary by product catogary and type? 
+- How do salses vary by product category and type? 
 
 ## Process
 - Verify data for any missing or duplicate values and anomalies, and sort out the same.
@@ -20,3 +20,10 @@ The main objective of this project is to analyze retail sales data to gain actio
 
 ## Dashboard
 ![coffee_shop_sale](https://github.com/user-attachments/assets/4359bcd1-d98a-4edf-b232-0b6883ef59fc)
+
+## Project Insight
+- In terms of hours around 9-10 o'clock most of order plcaed.
+- In terms of category 39% sales of coffee.
+- Based of size most of the customer preferred Regular size.
+- Top 3 store locations footfalls from (Astoria, Hell's kitchen, Lower Manhattan)
+- Top 5 selling products is Barista Espresso, Brewed Black Tea, Brewed Chai Tea, Gourmet Brewed coffee, Hot Chocolate  
